@@ -9,7 +9,7 @@
 - **Contributor**: Pavan Kumar Sadashiv (`@hrlpavan`)
   - **GitLab User ID**: `41966919` | **Profile**: https://gitlab.com/hrlpavan
   - **GitHub Profile**: https://github.com/hrlpavan
-  - **Git Author Email**: `pavan@hrlpavan.dev`
+  - **Git Author Email**: `pavankcet@gmail.com`
   - **Hackathon Portal**: https://contributors.gitlab.com/hackathon *(Registered & rules accepted)*
 - **Command Center Repo (`HRL X GitLab Hackathon`)**:
   - **Local Path**: `/Users/pavankumars/.gemini/antigravity/scratch/hrl-x-gitlab-hackathon`
